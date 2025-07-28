@@ -1,0 +1,27 @@
+███████╗███████╗████████╗██╗   ██╗██████╗ 
+██╔════╝██╔════╝╚══██╔══╝██║   ██║██╔══██╗
+███████╗█████╗     ██║   ██║   ██║██████╔╝
+╚════██║██╔══╝     ██║   ██║   ██║██╔═══╝ 
+███████║███████╗   ██║   ╚██████╔╝██║     
+╚══════╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝     
+       CPU CRAFTING TOOLKIT SETUP        
+
+This guide explains how to install all the required tools for building your own CPU — from simulation to physical implementation.
+
+1️⃣ Circuit Design Software
+To design, simulate, and test your CPU circuits, we’ll be using:
+
+🛠 Tool: Logisim Evolution
+✅ Beginner-friendly
+✅ Lightweight
+✅ Fully open-source
+
+💡 This software allows you to build logic gate-based circuits, simulate them in real-time, and visualize everything from basic adders to full CPUs.
+
+2️⃣ Install Logisim Evolution
+🔗 Step-by-step:
+1) go to the official repo of logisim Evolution and clone the .jar file on you local computer.
+2)install the latest jdk and execute the jar file.
+3)boom your playground is ready.
+
+
