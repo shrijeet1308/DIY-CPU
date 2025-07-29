@@ -38,6 +38,6 @@ So screw it. I decided to *just make one*. A real, actual CPU, starting at absol
 - `.circ` files work on any visual circuit thingy, but honestly, **Logisim Evolution** is easiest
 
 ---
-# welcome to the mind of a 17yrs old hacker
+## ⚠️welcome to the mind of a 17yrs old hacker
 
   
