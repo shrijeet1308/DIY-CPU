@@ -1,6 +1,6 @@
 # 🧠 Half Adder
 
-A **Half Adder** is a digital circuit that performs the addition of two single-bit binary numbers. It produces two outputs:
+A _**Half Adder**_ is a digital circuit that performs the addition of two single-bit binary numbers. It produces two outputs:
 
 - **Sum (S):** The result of the bit-wise addition  
 - **Carry (C):** The carry-out bit, passed on to the next higher bit in multi-bit addition
