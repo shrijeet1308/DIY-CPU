@@ -33,6 +33,7 @@ That spark of curiosity kicked off this wild journey — to craft a **working CP
 - Step-by-step circuit files — from logic gates → ALU → control unit → full CPU
 - Will eventually migrate the entire system to **breadboards & physical hardware**
 - Open-source documentation, learnings, and schematics for everyone to explore
-
+- all the .circ files can be opened using any visual circuit designing software. In my case, i am using the **logisim evolution**.
 ---
+
 ### ⚠️ Welcome to the mind of a 17-year-old hacker.
