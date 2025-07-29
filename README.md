@@ -8,32 +8,36 @@
                                                       
                                                       
 ```
+![CPU Setup](https://github.com/trinetra-1337/DIY-CPU/blob/main/setting-up-enviroment/cpu.jpg?raw=true)
 
-# 🧠 DIY CPU — Built from the Ground Up
 
-This repository documents every single step of my journey to build a fully functional CPU *from scratch*.  
-No pre-built kits. No shortcuts. Just pure logic gates, curiosity, and a hacker mindset.
+#  DIY CPU – Built from Scratch
 
+Yo! Welcome to my little corner of chaos.  
+I’m building a CPU from the ground up—no prefbuilt kits, zero hand-holding, and definitely no clue what I was getting into. Just some wires, a whole mess of logic gates, and raw curiosity.  
+we are starting this from scratch till a 16 bit cpu. No matter how much time or efforts  it takes, i am going to make it done .
 ---
 
-## 🚀 Why This Project?
+##  why i started this?
 
-Ever stared at a tiny 2x2cm silicon chip and thought,  
-*"How the hell does this thing run an entire universe of code?"*
+Ever look at a CPU and thought,  
+*"Wait, seriously, this microscopic thing is running games, the Internet, and like, everything?!"*  
+Yeah. That made me astonished.
 
-Same.
-
-That spark of curiosity kicked off this wild journey — to craft a **working CPU** that can perform basic calculations, understand binary logic, and evolve from nothing but logic gates and code.
+So screw it. I decided to *just make one*. A real, actual CPU, starting at absolute zero. Did I know what I was doing? Nope! Did I dive in anyway? Yup.
 
 ---
-
-## 📦 What’s Inside?
-
-- All designs created using **Logisim Evolution**
-- Step-by-step circuit files — from logic gates → ALU → control unit → full CPU
-- Will eventually migrate the entire system to **breadboards & physical hardware**
-- Open-source documentation, learnings, and schematics for everyone to explore
-- all the .circ files can be opened using any visual circuit designing software. In my case, i am using the **logisim evolution**.
 ---
 
-### ⚠️ Welcome to the mind of a 17-year-old hacker.
+## what does this repo has???
+
+- Circuits made in **Logisim Evolution** (I kinda vibe with the retro look, ngl)
+- Every single step: logic gates → ALU → control unit → full freakin’ CPU
+- Planning to yank this whole thing out of the screen and onto real-life breadboards (wish me luck)
+- Failed attempts, dumb mistakes, hacks, and actual working schematics, all open-source for anyone to roast or learn from
+- `.circ` files work on any visual circuit thingy, but honestly, **Logisim Evolution** is easiest
+
+---
+# welcome to the mind of a 17yrs old hacker
+
+  
