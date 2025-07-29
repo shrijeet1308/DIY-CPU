@@ -20,7 +20,7 @@ I’m building a CPU from the ground up—no prebuilt kits, zero hand-holding, a
 we are starting this from scratch till a 16 bit cpu. No matter how much time or efforts  it takes, i am going to make it done .
 ---
 
-##  why i started this?
+## --why i started this?
 
 Ever look at a CPU and thought,  
 *"Wait, seriously, this microscopic thing is running games, the Internet, and like, everything?!"*  
@@ -31,7 +31,7 @@ So screw it. I decided to *just make one*. A real, actual CPU, starting at absol
 ---
 ---
 
-## what does this repo has???
+## --what does this repo has???
 
 - Circuits made in **Logisim Evolution** (I kinda vibe with the retro look, ngl)
 - Every single step: logic gates → ALU → control unit → full freakin’ CPU
