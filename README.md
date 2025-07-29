@@ -14,7 +14,8 @@
 #  DIY CPU – Built from Scratch
 
 YO! 
-I’m building a CPU from the ground up—no prebuilt kits, zero hand-holding, and definitely no clue what I was getting into. Just some wires, a whole mess of logic gates, and raw curiosity.  
+I’m building a CPU from the ground up—no prebuilt kits, zero hand-holding, and definitely no clue what I was getting into
+. Just some wires, a whole mess of logic gates, and raw curiosity.  
 we are starting this from scratch till a 16 bit cpu. No matter how much time or efforts  it takes, i am going to make it done .
 ---
 
