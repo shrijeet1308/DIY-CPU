@@ -3,7 +3,7 @@
  **defination** :- "a multiplexer is a digital circuit that has 2^n inputs and has only one output."
            **explaination**:- when he questoin arrives for the multiplexer, the answer is that it is a digital circuit made  up of basic logic gates. Its main function is to to selectone input from multiple inputs and forward a single input based on the select lines.
 
-          think of a digital switch board which manages multiple inputs and forwards single from them as per need.
+      think of a digital switch board which manages multiple inputs and forwards single from them as per need.
 
 ---
 ### select lines
@@ -60,8 +60,8 @@
     it is simple as af to calculate these select lines, the number whcich is exponential to the base 2 for the
     type of mux is the number of select lines.
 
-    lets take an example of a 8x1 mux.
-     the 4x1 mux can also be written as 2^3x1 mux do the 3 which is the exponenet for the base 2 is the  number of select lines.
+  lets take an example of a 8x1 mux.
+    the 4x1 mux can also be written as 2^3x1 mux do the 3 which is the exponenet for the base 2 is the  number of select lines.
 
      
 ### in this way now we know all the basics of multiplexers👏, 
