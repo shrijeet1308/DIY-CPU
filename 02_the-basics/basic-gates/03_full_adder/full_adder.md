@@ -10,6 +10,9 @@
 
 ## circuit diagram 
  ![sorry!](https://github.com/trinetra-1337/DIY-CPU/blob/main/images-dump/full-adder-circuit.png?raw=true)
+ 
+ ---
+
   ## circuit flow of this circuit
    Let’s say your inputs are A, B, and the carry is Cin
         
@@ -22,3 +25,18 @@
       4>  Second AND: (A ⊕ B) ⋅ Cin
 
         OR: Carry-out = (A ⋅ B) + ((A ⊕ B) ⋅ Cin)
+
+---
+
+### Truth Table
+    
+    | A | B | Cin | Sum | Cout |
+    |---|---|-----|-----|------|
+    | 0 | 0 |  0  |  0  |  0   |
+    | 0 | 0 |  1  |  1  |  0   |
+    | 0 | 1 |  0  |  1  |  0   |
+    | 0 | 1 |  1  |  0  |  1   |
+    | 1 | 0 |  0  |  1  |  0   |
+    | 1 | 0 |  1  |  0  |  1   |
+    | 1 | 1 |  0  |  0  |  1   |
+    | 1 | 1 |  1  |  1  |  1   |
