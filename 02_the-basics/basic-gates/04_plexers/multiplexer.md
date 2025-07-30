@@ -47,5 +47,22 @@
 | 3-to-1 MUX   | 3                | 2                       | 1            |
 | 4-to-1 MUX   | 4                | 2                       | 1            |
 | 5-to-1 MUX   | 5                | 3                       | 1            |
-    
+
+---
+
+## what are the select lines and how to calculate them for the mux?
+
+  the select lines are the set of inputs that decides that which one of input should be forwarded. they
+  are like a digital operator which controlls the digital switch board present.
+
+  #### the question now arises
+  **how to calculate the number of  select lines??**
+    it is simple as af to calculate these select lines, the number whcich is exponential to the base 2 for the
+    type of mux is the number of select lines.
+
+    lets take an example of a 8x1 mux.
+     the 4x1 mux can also be written as 2^3x1 mux do the 3 which is the exponenet for the base 2 is the  number of select lines.
+
+     
+### in this way now we know all the basics of multiplexers👏, 
 
