@@ -14,6 +14,8 @@ XOR Gate
 
 These are the fundamental building blocks of digital circuits. Everything else can be derived from these.
 
+---
+
 ## Derived Gates
 Derived gates are gates that are built by combining two or more basic gates. These include:
 
@@ -26,6 +28,9 @@ XNOR Gate
 🔥 Fun Fact: The NOR gate is a universal gate — which means you can construct any logic gate using just NOR gates.
 
 ### 🛠 Gate Construction Using Basic Components
+
+---
+
 Now, let’s walk through how to build some gates using other gates:
 
 1️⃣ Constructing a NAND Gate using AND + NOT
@@ -48,6 +53,8 @@ Then pass the output through a NOT gate
 This inversion gives you the NOR output
 ✅ Output: NOR
 
+---
+
 3️⃣ Constructing a NOT Gate using NOR
 You can create a NOT gate using a single NOR gate by:
 
@@ -55,6 +62,8 @@ Connecting the same input to both inputs of the NOR gate
 
 Since NOR performs NOT (A + A) = NOT A
 ✅ Output: NOT
+
+---
 
 4️⃣ Constructing an AND Gate using only NOR Gates
 Using De Morgan’s Law:
@@ -69,6 +78,8 @@ Feed both inverted inputs into another NOR gate
 The double inversion cancels out and results in AND behavior
 ✅ Output: AND
 
+---
+
 5️⃣ Constructing an OR Gate using NOR + NOT
 To construct an OR gate:
 
@@ -76,4 +87,6 @@ First, use a NOR gate for your inputs (this gives you the inverse of OR)
 
 Then invert the output using a NOT gate
 ✅ Output: OR
+
+---
 
