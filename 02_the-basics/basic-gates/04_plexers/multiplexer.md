@@ -64,6 +64,11 @@
   <br>
     the 8x1 mux can also be written as 2^3x1 mux do the 3 which is the exponenet for the base 2 is the  number of select lines.
 
+---
+
+![Multiplexer Diagram](https://raw.githubusercontent.com/trinetra-1337/DIY-CPU/main/images-dump/multiplexer.webp)
+
+---
      
 ### in this way now we know all the basics of multiplexers👏, 
 
