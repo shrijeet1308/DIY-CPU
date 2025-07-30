@@ -61,7 +61,8 @@
     type of mux is the number of select lines.
 
   lets take an example of a 8x1 mux.
-    the 4x1 mux can also be written as 2^3x1 mux do the 3 which is the exponenet for the base 2 is the  number of select lines.
+  <br>
+    the 8x1 mux can also be written as 2^3x1 mux do the 3 which is the exponenet for the base 2 is the  number of select lines.
 
      
 ### in this way now we know all the basics of multiplexers👏, 
