@@ -15,10 +15,10 @@
 
   ---
 
-  ## components categorised
+  ## 🔗components categorised
   the components of the cpu are just listed here according to their category. The detailed description of each of them will be given in the next section.
 
-  ### core level components
+  ### ✅ core level components
 
   - ALU - arithematic logic unit
   - FPU - floating point unit
@@ -39,7 +39,7 @@
 
   ---
 
-  ### cache subsystem
+  ### ✅cache subsystem
 
   - L1 cache
   - L2 cache
@@ -48,7 +48,7 @@
 
   ---
 
-  ### system-level components
+  ### ✅system-level components
 - Memory controller
 - interconnect fabric
 - PCIe controller
@@ -60,7 +60,7 @@
 
 ---
 
-### Executio-support Subsystem
+### ✅Execution-support Subsystem
 
 - pipeline stages
 - hyperthreading/ simultaneous multi-threading
@@ -70,7 +70,7 @@
 
 ---
 
-### advanced features (modern CPUs)
+### ✅advanced features (modern CPUs)
 
 - vritualization support
 - instruction set extensions
